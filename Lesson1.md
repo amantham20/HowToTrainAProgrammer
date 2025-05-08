@@ -6,11 +6,13 @@
 
 Code is like a special language that computers use to talk and understand. It's a set of very specific instructions that tell a computer exactly what to do. You can think of it like a recipe in a cookbook, a manual for building with LEGOs, or the sheet music a musician follows. Unlike other instructions, the code for computers has to be extremely precise with no ambiguity.
 
-<iframe width="560" height="315" 
+<!-- <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/FN2RM-CHkuI?start=51" 
 title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-allowfullscreen></iframe>
+allowfullscreen></iframe> -->
+
+[![How to make a peanut butter sandwich](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://www.youtube.com/watch?v=FN2RM-CHkuI&t=106s)
 
 
 
