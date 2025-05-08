@@ -10,8 +10,6 @@ Code is like a special language that computers use to talk and understand. It's 
 [![How to make a peanut butter sandwich](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://www.youtube.com/watch?v=FN2RM-CHkuI&t=106s)
 
 
-
-
 Your First Line of Code
 
 Let's start. In Robotics, we use a language called Java to communicate with robots. Here’s a simple example of what Java code looks like:
@@ -429,4 +427,227 @@ Note that while printing, n is not written within double quotes " ". This is bec
 
 Look at another example.
 
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int n;
+        n = 4;
+        System.out.println(n);
+        System.out.println("n");
+    }
+}
+```
+
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">4
+n
+</pre>
+    </details>
+</div>
+
+Here System.out.println(n) printed the value of the variable n whereas System.out.println("n") printed the character n.
+
+In the above examples, we declared a variable and assigned a value to it in two separate statements as shown below.
+
+int n;
+n = 4;
+
+We can do this in a single statement also as shown below.
+
+int n = 4;
+
+Look at the following example in which we have declared a variable and assigned a value to it in a single statement.
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int n = 4;
+        System.out.println(n);
+    }
+}
+```
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">4</pre>
+    </details>
+</div>
+
+In the above examples, we declared a variable and assigned a value to it in two separate statements as shown below.
+
+int n;
+n = 4;
+
+We can do this in a single statement also as shown below.
+
+int n = 4;
+
+Look at the following example in which we have declared a variable and assigned a value to it in a single statement.
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int n = 4;
+        System.out.println(n);
+    }
+}
+```
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">4</pre>
+    </details>
+</div>
+
+
+Let’s see some more examples.
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int n = 4;
+        System.out.println("The value of n is: " + n);
+    }
+}
+```
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">The value of n is: 4</pre>
+    </details>
+</div>
+
+In this example, notice the following statement.
+
+System.out.println("The value of n is: " + n);
+
+The string "The value of n is: " is joined to the value of n using +, and the final string "The value of n is: 4" got printed. We can also reassign value to a variable as shown below.
+
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int n = 4;
+        System.out.println("The value of n is: " + n);
+        n = 5;
+        System.out.println("The value of n is: " + n);
+    }
+}
+```
+
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">The value of n is: 4
+The value of n is: 5</pre>
+    </details>
+</div>
+
+In this example, we first assigned a value of 4 to n and printed it. Then we reassigned a value of 5 to n and printed it again. Thus, the output is as shown below.
+
+Declaring Multiple Variables
+
+Let’s see a simple example in which two variables are declared.
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int num1;
+        int num2;
+
+        num1 = 10;
+        num2 = 20;
+
+        System.out.println(num1);
+        System.out.println(num2);
+    }
+}
+```
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">10
+20</pre>
+    </details>
+</div>
+
+Here, the statement int num1 declares a variable num1 and the statement int num2 declares a variable num2. Then num1 and num2 are assigned the values 10 and 20 respectively.
+
+We can also declare multiple variables in a single statement as shown below.
+
+int num1, num2;
+
+In the above statement, the variables num1 and num2 are declared in a single statement. This is demonstrated in the following program.
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int num1, num2;
+
+        num1 = 10;
+        num2 = 20;
+
+        System.out.println(num1);
+        System.out.println(num2);
+    }
+}
+```
+
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">10
+20</pre>
+    </details>
+</div>
+
+
+```java
+class Test {
+
+    public static void main(String[] args) {
+        int num1 = 10, num2 = 20;
+
+        System.out.println(num1);
+        System.out.println(num2);
+    }
+}
+```
+<div class="collapse">
+    <details>
+        <summary>Output</summary>
+        <pre class="output">10
+20</pre>
+    </details>
+</div>
+
+Identifiers
+An identifier is a name we give to entities like variables, methods, classes, etc. We will learn about all these entities in later chapters. For now, just remember that whenever we define an entity, we assign it a name which is called an identifier.
+
+In the last example, Hello is an identifier because it is the name of a class, main is an identifier because it is the name of a method and num1 and num2 are also identifiers because they are the names of variables.
+
+Rules for writing Identifiers
+Identifiers can be a combination of lowercase (a - z) and uppercase (A - Z) letters, digits (0 - 9), dollar sign ($) or an underscore (_). Special characters (*, %, #, !, @, etc.) cannot be present in identifiers. Eg, Message1, num_max are valid identifiers and num@ is an invalid identifier.
+Identifiers cannot start with a digit. Eg, 2num is an invalid identifier.
+In Java, identifier names are case-sensitive, i.e. num and Num will be treated as different.
+Keywords cannot be used as identifiers (Keywords are explained in the previous chapter).
+Eg, class is an invalid identifier because it is a keyword.
+Good Practices to Name Identifiers
+There are some good practices to name identifiers which should be followed but are not mandatory.
+
+Identifiers should be kept meaningful so that understanding code is easier. Therefore, instead of using names like x, y, a, b, etc. for identifiers, use some meaningful names. For example, if we are storing the product of two numbers in a variable, then the name of that variable should be kept as product.
+Names of variables and methods should contain only lowercase letters. For example, name, display(), etc.
+Class names should start with capital letters. For example, Person, Student, Books, etc.
+If you want to name a variable with multiple words, then name it as multiple words separated by underscores. For example, first_name, last_name, etc.
+If you want to name a method with multiple words, then name it in CamelCase format. For example, getName(), printMessage(), etc.
+If you want to name a class with multiple words, then name it in CamelCase format. For example, StudentRecord, BookAuthor, etc.
+In this chapter, we learned about variables and also saw examples to define variables which can store integer values. However, we can also define variables which can store text or other types of values, which we will look at in the next chapter.
 
