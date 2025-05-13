@@ -377,3 +377,7 @@ You will understand many concepts only by practicing. So, solve questions from t
 > Everything you can imagine is real.
 >
 > \- Pablo Picasso
+
+
+<!-- Next Chapter -->
+<a href="06-java-input.md">Next Chapter</a>

@@ -8,3 +8,8 @@ Code is like a special language that computers use to talk and understand. It's 
 
 
 [![How to make a peanut butter sandwich](https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg)](https://www.youtube.com/watch?v=FN2RM-CHkuI&t=106s)
+
+
+<a href="https://www.youtube.com/watch?v=FN2RM-CHkuI&t=106s">How to make a peanut butter sandwich</a>
+
+<a href="02-java-print.md">First Lesson</a>

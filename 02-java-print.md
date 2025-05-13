@@ -1,8 +1,6 @@
 # Printing in Java
 
-Let's start the beautiful journey of Java. In the last chapter, we showed you how to run a Java program on different platforms. We also wrote a program to print *Hello World* on the screen. But you still don't know how the program worked and printed "Hello World". In this chapter, we are going to look at the working of that program.
-
-The code in the previous chapter was:
+Let's take the first step in the journey of learning how to code. In this chapter, we will learn how to print something on the screen. Printing is the first step in learning any programming language.
 
 ```java
 class Hello {
@@ -16,8 +14,7 @@ class Hello {
 <div class="collapse">
     <details>
         <summary>Output</summary>
-        <pre class="output">Hello World
-                      </pre>
+        <pre class="output">Hello World</pre>
     </details>
 </div>
 
@@ -27,7 +24,7 @@ The above program printed "Hello world" on the screen. Basically, we have writte
 class Hello {
 
     public static void main(String[] args) {
-        System.out.print("It is working!");
+        System.out.print("Hey, I am a Silly Goose!");
     }
 }
 ```
@@ -35,12 +32,17 @@ class Hello {
 <div class="collapse">
     <details>
         <summary>Output</summary>
-        <pre class="output">It is working!
-                      </pre>
+        <pre class="output">Hey, I am a Silly Goose!</pre>
     </details>
 </div>
 
 Yes, it worked. We just printed a different message on the screen. Now it's time to understand the working of the program. Let’s do this by understanding each line of the code.
+
+**But Before that, could you change the message to "Hello World" to Say "Hello" and your name? For example, "Hello Aman".**
+
+
+
+
 
 ## Working of a Java Program
 
@@ -108,8 +110,7 @@ class Hello {
 <div class="collapse">
     <details>
         <summary>Output</summary>
-        <pre class="output">Hello World
-                      </pre>
+        <pre class="output">Hello World</pre>
     </details>
 </div>
 
@@ -132,8 +133,7 @@ class Hello {
 <div class="collapse">
     <details>
         <summary>Output</summary>
-        <pre class="output">HelloWorld
-                      </pre>
+        <pre class="output">HelloWorld</pre>
     </details>
 </div>
 
@@ -153,8 +153,7 @@ class Hello {
 <div class="collapse">
     <details>
         <summary>Output</summary>
-        <pre class="output">10
-                      </pre>
+        <pre class="output">10</pre>
     </details>
 </div>
 
@@ -176,8 +175,7 @@ class Hello {
     <details>
         <summary>Output</summary>
         <pre class="output">Hello
-World
-                      </pre>
+World</pre>
     </details>
 </div>
 
@@ -252,8 +250,7 @@ class Hello {
     <details>
         <summary>Output</summary>
         <pre class="output">Hello
-World
-                      </pre>
+World</pre>
     </details>
 </div>
 
@@ -334,3 +331,7 @@ In this chapter, we learned how to print something in Java. Coding is all about 
 > The best way to predict future is to create it.
 >
 > \- Alan Kay
+
+
+<!-- next chapter -->
+<a href="03-java-basics.md">Next Chapter</a>

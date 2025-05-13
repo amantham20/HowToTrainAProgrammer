@@ -172,3 +172,5 @@ Wooh! This had a lot of terminologies but it was just to introduce you to the ba
 > If you rely completely on protocol, you can become a robot.
 >
 > \- Margaret Trudeau
+
+<a href="04-java-variables.md">Next Lesson</a>

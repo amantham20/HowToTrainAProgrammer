@@ -307,3 +307,5 @@ Area of rectangle is 8
 </pre>
     </details>
 </div>
+
+<a href="07-java-operators.md">Next</a>

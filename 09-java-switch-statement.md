@@ -201,3 +201,5 @@ class Test {
 You have now learned about the switch statement. Try to implement the basic functionality of a calculator like addition, subtraction, etc. using this technique. You can find the solution to this problem and more problems to practice in the [practice section](https://web.archive.org/web/20220811195841/https://www.codesdope.com/practice/).
 
 <div><span>Hold the vision, trust the process.</span></div>
+
+<a href="10-java-loops.md" class="next">Next</a>

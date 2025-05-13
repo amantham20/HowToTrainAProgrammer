@@ -270,3 +270,5 @@ In this chapter, we learned about variables and also saw examples to define vari
 > All our dreams can come true, if we have the courage to pursue them.
 >
 > \- Walt Disney
+
+<a href="05-java-data-types.md">Next Lesson</a>

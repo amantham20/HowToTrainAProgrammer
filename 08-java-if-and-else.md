@@ -695,3 +695,5 @@ In this chapter, you learned about different ways you can perform some task base
 > \- Elon Musk
 
 ---
+
+<a href="09-java-switch-statement.md" class="next">Next: Java Switch Case</a>
