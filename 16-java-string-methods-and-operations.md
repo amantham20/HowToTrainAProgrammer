@@ -538,3 +538,6 @@ With this, you just finished the first part of Java programming. So give yoursel
 > Don’t Let Yesterday Take Up Too Much Of Today.
 >
 > \- Will Rogers
+
+
+<a href="17-java-object-oriented-programming.md" class="next">Next</a>

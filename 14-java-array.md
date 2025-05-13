@@ -728,3 +728,6 @@ This completes the topic of Arrays. Arrays are quite useful to store similar typ
 > It's not about how much we lost. It's about how much we have left.
 >
 > - Tony Stark
+
+
+<a href="15-java-strings.md" class="next">Next</a>

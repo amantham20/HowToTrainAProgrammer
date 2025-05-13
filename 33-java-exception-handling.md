@@ -688,3 +688,6 @@ In this chapter, we saw the different ways we can handle exceptions in Java. We 
 
 <div><span>Opportunities don’t happen, you create them.</span></div>
 <div><span>- Chris Grosser</span></div>
+
+
+<a href="34-java-throw-and-throws.md" class="next">Next</a>

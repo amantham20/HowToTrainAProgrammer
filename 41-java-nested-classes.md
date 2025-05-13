@@ -754,3 +754,6 @@ So we learned different types of nested classes and their significance. Nested c
 > Giving up is for rookies.
 >
 > \- Hercules
+
+
+<a href="42-java-lambda-expressions.md" class="next">Next</a>

@@ -442,3 +442,6 @@ Hence, it depends on the programmer whether she wants to handle unchecked except
 > - Aristotle
 
 ---
+
+
+<a href="35-java-assertion.md" class="next">Next</a>

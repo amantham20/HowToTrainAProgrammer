@@ -684,3 +684,6 @@ We can declare a class as static only if it is a nested class. Nested classes an
 > \- Albert Einstein
 
 ***
+
+
+<a href="30-java-this-keyword.md" class="next">Next</a>

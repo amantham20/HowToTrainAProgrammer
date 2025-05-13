@@ -241,3 +241,6 @@ In this statement, we are directly assigning the object `numObj` of the `Integer
 > - Bobby Unser
 
 <hr/>
+
+
+<a href="38-java-collection-framework.md" class="next">Next</a>

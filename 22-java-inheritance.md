@@ -657,3 +657,6 @@ It is very important in real projects to organise different classes in a program
 > Whether You Think You Can Or Think You Can’t, You’re Right.
 >
 > \- Henry Ford
+
+
+<a href="23-java-method-overriding.md" class="next">Next</a>

@@ -73,3 +73,6 @@ Let’s understand abstract classes, one of the ways to achieve abstraction in J
 > You only live once, but if you do it right, once is enough.
 >
 > - Mae West
+
+
+<a href="26-java-abstract-class.md" class="next">Next</a>

@@ -515,3 +515,6 @@ From the above explanation and examples, we can conclude the following points.
 > Turn your wounds into wisdom.
 >
 > \- Oprah Winfrey
+
+
+<a href="28-java-encapsulation.md" class="next">Next</a>

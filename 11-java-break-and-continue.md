@@ -187,3 +187,6 @@ class Test {
 > You can waste your lives drawing lines. Or you can live your life crossing them.
 >
 > \- Shonda Rhimes
+
+
+<a href="12-java-methods.md" class="next">Next</a>

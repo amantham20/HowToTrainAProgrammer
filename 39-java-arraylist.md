@@ -741,3 +741,6 @@ In this statement, the `get()` method converts the object stored at index 1 in `
 Don’t Quit.
 
 - Grand Master Oogway
+
+
+<a href="40-java-iterator.md" class="next">Next</a>

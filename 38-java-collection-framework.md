@@ -129,3 +129,6 @@ Thus, we can see that array lists are resizable arrays because we can change the
 <div><span>Don’t spend time beating on a wall, hoping to transform it into a door.</span></div>
 <div><span>- Coco Chanel</span></div>
 </div>
+
+
+<a href="39-java-arraylist.md" class="next">Next</a>

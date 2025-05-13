@@ -521,3 +521,6 @@ Since the last few chapters, we have read about inheritance and different concep
 > - Mahatma Gandhi
 
 ***
+
+
+<a href="25-java-abstraction.md" class="next">Next</a>

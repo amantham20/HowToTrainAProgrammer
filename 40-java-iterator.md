@@ -354,3 +354,6 @@ An iterator is a powerful tool which when used at the correct time can save us a
 > \- Po
 
 ---
+
+
+<a href="41-java-nested-classes.md" class="next">Next</a>

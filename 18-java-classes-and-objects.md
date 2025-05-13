@@ -612,3 +612,5 @@ public static Account getAcc(Account a, Account b) {
 </div>
 <hr/>
 ```
+
+<a href="19-java-array-of-objects.md" class="next">Next</a>

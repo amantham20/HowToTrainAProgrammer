@@ -284,3 +284,6 @@ In this chapter, we learned about how to create and work with strings in Java. I
 > It’s an imperfect world but it’s the only one we got.
 >
 > \- Tony Stark
+
+
+<a href="16-java-string-methods-and-operations.md" class="next">Next</a>

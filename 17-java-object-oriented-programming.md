@@ -21,3 +21,5 @@ I hope you have got the feel of classes and objects. We will be programming this
 > You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.
 
 ***
+
+<a href="18-java-classes-and-objects.md" class="next">Next</a>

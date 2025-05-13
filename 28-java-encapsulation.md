@@ -128,3 +128,5 @@ Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.
 
 \- Helen Keller
 ***
+
+<a href="29-java-static-keyword.md" class="next">Next</a>

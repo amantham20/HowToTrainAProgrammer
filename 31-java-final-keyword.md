@@ -209,3 +209,6 @@ Here, we created a class `Animal` and declared it as `final`. As a result, when 
 >
 > \- Confucius
 ***
+
+
+<a href="32-java-errors-and-exceptions.md" class="next">Next</a>

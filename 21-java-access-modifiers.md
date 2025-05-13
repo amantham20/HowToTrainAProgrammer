@@ -213,3 +213,6 @@ For now, you can just focus on the private and public modifiers as we will be us
 > We May Encounter Many Defeats But We Must Not Be Defeated.
 >
 > -   Maya Angelou
+
+
+<a href="22-java-inheritance.md" class="next">Next</a>
